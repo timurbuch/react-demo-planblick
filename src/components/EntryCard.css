@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  margin-top: 1rem;
+}
+.entry-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.entry-header {
+  font-weight: 500;
+}
+.owner-wrapper {
+  display: flex;
+  gap: 0.5rem;
+}
+.owner {
+  font-weight: 500;
+}

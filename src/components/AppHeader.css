@@ -1,0 +1,22 @@
+@import (
+  'https://testblick.de/style-global/lib/fontawesome-free/css/all.min.css?v=[cs_version]'
+);
+
+@import (
+  'https://testblick.de/style-global/css/azia-global.min.css?v=[cs_version]'
+);
+@import (
+  'https://testblick.de/style-global/lib/ionicons/css/ionicons.min.css?v=[cs_version]'
+);
+@import (
+  'https://testblick.de/style-global/lib/typicons.font/typicons.css?v=[cs_version]'
+);
+@import (
+  'https://testblick.de/style-global/css/serviceblick-global.css?v=[cs_version]'
+);
+@import (
+  'https://testblick.de/style-global/lib/daterangepicker/daterangepicker.css?v=[cs_version]'
+);
+@import(
+
+);

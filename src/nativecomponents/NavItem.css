@@ -1,0 +1,31 @@
+.nav-link {
+  display: flex;
+  padding: 0.75rem 0.25rem;
+  border: 1px solid grey;
+  width: 30%;
+  text-decoration: none;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in;
+  transition-property: 'background', 'color';
+}
+.nav-link.active {
+  background-color: #0056b3;
+  color: white;
+}
+.nav-link.inactive {
+  background-color: lightgrey;
+  color: #596882;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: #596882;
+  padding-left: 0.25rem;
+  font-weight: 500;
+}
